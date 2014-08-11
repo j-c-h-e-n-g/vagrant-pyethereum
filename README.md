@@ -1,6 +1,11 @@
+## vagrant-pyethereum
 
+Dependenies
+-------------
 
-## You Should See
+Running
+-------------
+
 
     Bringing machine 'default' up with 'virtualbox' provider...
     ==> default: Box 'puppetlabs/centos-6.5-64-nocm' could not be found. Attempting to find and install...
