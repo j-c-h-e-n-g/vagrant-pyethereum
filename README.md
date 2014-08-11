@@ -7,6 +7,7 @@ Dependenies
 Running
 -------------
 
+virtualbox should grab `puppetlabs/centos-6.5-64-nocm` if you don't have it anymore: 
 
     Bringing machine 'default' up with 'virtualbox' provider...
     ==> default: Box 'puppetlabs/centos-6.5-64-nocm' could not be found. Attempting to find and install...
@@ -19,6 +20,7 @@ Running
     ==> default: Successfully added box 'puppetlabs/centos-6.5-64-nocm' (v0.3.0) for 'virtualbox'!
 
 
+then you should see see your vagrant instance booting:
 
 
     Bringing machine 'default' up with 'virtualbox' provider...
