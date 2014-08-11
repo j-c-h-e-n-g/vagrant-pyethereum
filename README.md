@@ -1,5 +1,7 @@
 ## vagrant-pyethereum
 
+This launches a dev environment for `https://github.com/ethereum/pyethereum`
+
 VagrantFile
 --------------
 
@@ -17,7 +19,7 @@ Dependenies
 * ansible 1.7
 
 
-Running
+Running vagrant
 -------------
 
 virtualbox should grab `puppetlabs/centos-6.5-64-nocm` if you don't have it anymore: 
