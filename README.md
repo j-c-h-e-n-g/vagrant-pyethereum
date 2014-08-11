@@ -2,7 +2,13 @@
 
 Dependenies
 -------------
-* ansible 
+
+* OSX 10.9 (Mavericks)
+* VirtualBox 4.3.6
+* CentOS 6.5 (puppetlabs/centos-6.5-64-nocm)
+* vagrant 1.6.3
+* ansible 1.7
+
 
 Running
 -------------
